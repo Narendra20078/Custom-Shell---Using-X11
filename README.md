@@ -1,7 +1,7 @@
 Custom Myterminal readme file
 --- 
 Subject: **Computing Lab(CS69201)**.  
-Name :   **Narendra Kumar (25CS60R18).**
+Name :   **Narendra Kumar.**
 ---
 
 ## System requirements (short)
